@@ -1,0 +1,13 @@
+{
+  "repositories": [],
+  "name": "jceee/algorithm",
+  "type": "project",
+  "description": "算法积累",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Jceee\\Algorithm": "src/"
+    },
+    "classmap": []
+  }
+}

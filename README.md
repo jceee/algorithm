@@ -1,2 +1,3 @@
-# algorithm
-algorithm
+# 常用算法积累
+
+some algorithm leaning
